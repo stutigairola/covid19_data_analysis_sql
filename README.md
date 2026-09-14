@@ -5,6 +5,12 @@ This repository contains an end-to-end SQL project analyzing global COVID-19 dat
 
 ---
 
+## Data Source
+The dataset used in this project is based on global COVID-19 tracking data from **Our World in Data** (OWID).
+* [Our World in Data - COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
+
+---
+
 ## Technical Details & Query Breakdown
 
 ### 1. Data Cleaning (`covid_data_cleaning.sql`)
